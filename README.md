@@ -128,7 +128,7 @@ python -m pytest test_pipeline.py -v
 
 ---
 
-### Member 2 — [Name]
+### Member 2 — Lewis Moura
 **Notebook:** `04_model_member2_RandomForest.ipynb`
 
 **Responsibilities:**
