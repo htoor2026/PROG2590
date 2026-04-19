@@ -1,7 +1,11 @@
-__pycache__/
+.DS_Store
 .ipynb_checkpoints/
-*.pyc
-.DS_Store
-*.pkl
-.DS_Store
-notebooks/data/*.pkl
+*.zip
+
+holdout-testset-hint/
+holdout-test-hint/
+holdout-testset-hint.zip
+
+PROG2590-project.docx
+Presentation1 [Autosaved].pptx
+report.pdf
