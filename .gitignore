@@ -10,3 +10,7 @@ PROG2590-project.docx
 Presentation1 [Autosaved].pptx
 report.pdf
 ~$*
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
